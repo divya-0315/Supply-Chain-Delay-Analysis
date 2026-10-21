@@ -1,0 +1,16 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Supplier_City,Supplier_State,Supplier_Region,Supplier_Rating,Standard_Lead_Time_Days,Supplier_Status
+SUP001,Om Sai Electronics Pvt Ltd,Manufacturer,Chennai,Tamil Nadu,South,4.2,5,Active
+SUP002,Shree Ganesh Textiles,Manufacturer,Surat,Gujarat,West,3.8,7,Active
+SUP003,Bharat Home Appliances Ltd,Manufacturer,Noida,Uttar Pradesh,North,4.0,6,Active
+SUP004,Nova Distributors,Distributor,Bengaluru,Karnataka,South,3.5,4,Active
+SUP005,Global Mobile Traders,Distributor,Mumbai,Maharashtra,West,4.5,3,Active
+SUP006,Aashirvaad Foods Ltd,Manufacturer,Kanpur,Uttar Pradesh,North,4.1,2,Active
+SUP007,Trendy Footwear Co,Manufacturer,Agra,Uttar Pradesh,North,3.7,5,Active
+SUP008,Wellness Beauty Products,Manufacturer,Baddi,Himachal Pradesh,North,4.3,4,Active
+SUP009,Kumar Furniture Works,Manufacturer,Jodhpur,Rajasthan,West,3.6,9,Active
+SUP010,Sunrise Toys Pvt Ltd,Manufacturer,Delhi,Delhi,North,3.9,6,Active
+SUP011,Prime Electronics Hub,Distributor,Hyderabad,Telangana,South,4.0,3,Active
+SUP012,South India Textiles,Manufacturer,Coimbatore,Tamil Nadu,South,3.8,5,Active
+SUP013,Metro Kitchenware Ltd,Manufacturer,Pune,Maharashtra,West,4.2,6,Active
+SUP014,National Sports Gear,Distributor,Kolkata,West Bengal,East,3.4,4,Inactive
+SUP015,Elite Fragrance House,Manufacturer,Mumbai,Maharashtra,West,4.4,3,Active

@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_of_Measure,Product_Priority,Standard_Lead_Time_Days,Product_Status
+PROD001,Wireless Bluetooth Earbuds,Electronics,Audio,Unit,High,5,Active
+PROD002,Smartphone 5G 128GB,Electronics,Mobiles & Accessories,Unit,High,7,Active
+PROD003,Men's Cotton T-Shirt,Fashion,Men's Apparel,Unit,Medium,3,Active
+PROD004,Women's Kurti Set,Fashion,Women's Apparel,Unit,Medium,4,Active
+PROD005,Non-Stick Cookware Set,Home & Kitchen,Cookware,Set,Medium,6,Active
+PROD006,LED Smart TV 43 Inch,Electronics,Television,Unit,High,10,Active
+PROD007,Running Shoes,Footwear,Sports Shoes,Pair,Medium,5,Active
+PROD008,Face Serum Vitamin C,Beauty & Personal Care,Skincare,Bottle,Low,2,Active
+PROD009,Basmati Rice 5kg,Grocery,Staples,Bag,Low,1,Active
+PROD010,Study Table,Furniture,Office Furniture,Unit,Medium,8,Active
+PROD011,Kids Building Blocks,Toys,Educational Toys,Box,Low,4,Active
+PROD012,Yoga Mat,Sports & Fitness,Fitness Equipment,Unit,Low,3,Active
+PROD013,Laptop Backpack,Fashion,Bags,Unit,Medium,4,Active
+PROD014,Mixer Grinder 750W,Home & Kitchen,Small Appliances,Unit,Medium,6,Active
+PROD015,Wrist Watch Analog,Fashion,Accessories,Unit,Low,3,Active
+PROD016,Bedsheet Double Bed,Home & Kitchen,Bedding,Set,Low,3,Active
+PROD017,Air Fryer 4L,Electronics,Kitchen Appliances,Unit,Medium,7,Active
+PROD018,Formal Shirt,Fashion,Men's Apparel,Unit,Medium,3,Inactive
+PROD019,Wireless Mouse,Electronics,Computer Accessories,Unit,Low,2,Active
+PROD020,Perfume 100ml,Beauty & Personal Care,Fragrance,Bottle,Low,2,Active

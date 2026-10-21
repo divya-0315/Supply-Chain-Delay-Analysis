@@ -1,0 +1,16 @@
+Location_ID,Warehouse_Name,Location_Type,City,State,Region,Warehouse_Capacity,Warehouse_Status
+LOC001,BLR Fulfillment Center 1,Fulfillment Center,Bengaluru,Karnataka,South,500000,Active
+LOC002,Mumbai Distribution Hub,Distribution Center,Mumbai,Maharashtra,West,350000,Active
+LOC003,Delhi NCR Warehouse,Warehouse,Gurugram,Haryana,North,600000,Active
+LOC004,Chennai Fulfillment Center,Fulfillment Center,Chennai,Tamil Nadu,South,420000,Active
+LOC005,Hyderabad Warehouse,Warehouse,Hyderabad,Telangana,South,380000,Active
+LOC006,Pune Distribution Center,Distribution Center,Pune,Maharashtra,West,300000,Active
+LOC007,Kolkata Warehouse,Warehouse,Kolkata,West Bengal,East,250000,Active
+LOC008,Ahmedabad Fulfillment Center,Fulfillment Center,Ahmedabad,Gujarat,West,320000,Active
+LOC009,Jaipur Warehouse,Warehouse,Jaipur,Rajasthan,North,200000,Active
+LOC010,Lucknow Distribution Hub,Distribution Center,Lucknow,Uttar Pradesh,North,180000,Active
+LOC011,Kochi Warehouse,Warehouse,Kochi,Kerala,South,150000,Active
+LOC012,Bhopal Distribution Center,Distribution Center,Bhopal,Madhya Pradesh,North,160000,Active
+LOC013,Guwahati Warehouse,Warehouse,Guwahati,Assam,East,120000,Active
+LOC014,Nagpur Fulfillment Center,Fulfillment Center,Nagpur,Maharashtra,West,280000,Active
+LOC015,Indore Warehouse,Warehouse,Indore,Madhya Pradesh,North,190000,Inactive

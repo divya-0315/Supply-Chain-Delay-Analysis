@@ -1,0 +1,16 @@
+Transport_ID,Transport_Mode,Vehicle_Type,Carrier_Name,Route_ID,Origin_City,Destination_City,Distance_KM,Planned_Transit_Hours
+TRN001,Road,Mini Truck,Delhivery,RT1001,Bengaluru,Chennai,350,8
+TRN002,Road,Truck,Ekart Logistics,RT1002,Mumbai,Pune,150,4
+TRN003,Air,Air Cargo,Blue Dart Aviation,RT1003,Delhi,Bengaluru,1740,3
+TRN004,Road,Truck,XpressBees,RT1004,Delhi,Jaipur,280,6
+TRN005,Rail,Freight Train,Indian Railways Freight,RT1005,Mumbai,Delhi,1400,24
+TRN006,Road,Trailer,DTDC,RT1006,Chennai,Hyderabad,630,12
+TRN007,Road,Mini Truck,Ecom Express,RT1007,Kolkata,Guwahati,1030,20
+TRN008,Air,Air Cargo,IndiGo CarGo,RT1008,Bengaluru,Delhi,1740,3
+TRN009,Road,Truck,Shadowfax,RT1009,Pune,Ahmedabad,660,14
+TRN010,Road,Cargo Van,Rivigo,RT1010,Hyderabad,Chennai,630,11
+TRN011,Rail,Freight Train,CONCOR,RT1011,Delhi,Kolkata,1470,26
+TRN012,Road,Truck,VRL Logistics,RT1012,Bengaluru,Kochi,550,11
+TRN013,Road,Trailer,TCI Express,RT1013,Jaipur,Lucknow,570,12
+TRN014,Road,Mini Truck,Gati Ltd,RT1014,Nagpur,Bhopal,350,7
+TRN015,Road,Truck,Safexpress,RT1015,Ahmedabad,Indore,400,8
